@@ -2,5 +2,9 @@
 
 
 int main(){
-getuid();
+
+    printf("hello world");
+
+
+
 }
