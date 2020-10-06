@@ -3,7 +3,10 @@
 
 int main(){
 
-    printf("hello world");
+    int c = 2;
+    int a = 3;
+
+    printf("%d + %d = %d",c,a,c+a);
 
 
 
